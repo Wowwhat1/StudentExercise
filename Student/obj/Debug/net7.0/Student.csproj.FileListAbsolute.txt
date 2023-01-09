@@ -1,0 +1,15 @@
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\bin\Debug\net7.0\Student.exe
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\bin\Debug\net7.0\Student.deps.json
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\bin\Debug\net7.0\Student.runtimeconfig.json
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\bin\Debug\net7.0\Student.dll
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\bin\Debug\net7.0\Student.pdb
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\obj\Debug\net7.0\Student.csproj.AssemblyReference.cache
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\obj\Debug\net7.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\obj\Debug\net7.0\Student.AssemblyInfoInputs.cache
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\obj\Debug\net7.0\Student.AssemblyInfo.cs
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\obj\Debug\net7.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\obj\Debug\net7.0\Student.dll
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\obj\Debug\net7.0\refint\Student.dll
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\obj\Debug\net7.0\Student.pdb
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\obj\Debug\net7.0\Student.genruntimeconfig.cache
+C:\Users\Huynh Cong Chien\source\repos\Student\Student\obj\Debug\net7.0\ref\Student.dll
